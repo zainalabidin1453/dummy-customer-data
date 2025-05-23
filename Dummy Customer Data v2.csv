@@ -1,4 +1,4 @@
-customer_id,age_category,income_category,loan_amount_category,loan_period_category,payment_failure_history,credit_rating,late_payment_last_month,inflation_rate,interest_rate
+customer_id,age_category,income_category,loan_amount_category,loan_period_category,default_history,credit_rating,late_payment_last_month,inflation_rate,interest_rate
 1,4,3,3,3,0,2,1,0.02,0.06
 2,2,3,1,3,0,2,1,0.02,0.06
 3,4,3,3,3,0,4,1,0.02,0.06
